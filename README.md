@@ -1,4 +1,4 @@
-# Number Guesser (GAME)
+# Number Guesser
 
 ### Overview
 A command-line Number Guesser game programmed in Python  
@@ -15,7 +15,7 @@ After each guess, the program provides hints indicating whether the guess was to
 - Range validation (rejects numbers outside the allowed range)
 - Guess counter
 
-### Skills used:
+### Skills Demonstrated:
 - Functions
 - Variables
 - User Input
@@ -31,8 +31,8 @@ After each guess, the program provides hints indicating whether the guess was to
 
 ### Technologies Used
 - Python
-- random
-- time
+- random module
+- time module
 
 ### How To Run
 1. Copy num_guesser.py into a Python IDE
@@ -56,3 +56,6 @@ Throughout this project, I learned and practiced how to:
 4. Generate random numbers
 5. Create multiple game modes with different rules
 6. Build a complete command-line application
+
+### Author
+Github: https://github.com/AbuWaqid-Mir
