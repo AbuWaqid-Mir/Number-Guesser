@@ -1,4 +1,4 @@
-# Number Guesser (GAME)
+# Number Guesser
 
 ### Overview
 A command-line Number Guesser game programmed in Python  
@@ -10,8 +10,12 @@ After each guess, the program provides hints indicating whether the guess was to
 - Input Validation
 - "Too High"/"Too Low" Hints
 - Timed Delays ("time.sleep()")
+- 3 Difficulty Levels (Easy, Medium, Hard)
+- Maximum guess limit for each difficulty
+- Range validation (rejects numbers outside the allowed range)
+- Guess counter
 
-### Skills used:
+### Skills Demonstrated:
 - Functions
 - Variables
 - User Input
@@ -27,8 +31,8 @@ After each guess, the program provides hints indicating whether the guess was to
 
 ### Technologies Used
 - Python
-- random
-- time
+- random module
+- time module
 
 ### How To Run
 1. Copy num_guesser.py into a Python IDE
@@ -36,19 +40,22 @@ After each guess, the program provides hints indicating whether the guess was to
 3. Follow the on-screen instructions
 
 ### Example Gameplay
-(screenshot when finished)
+<img width="1225" height="691" alt="image" src="https://github.com/user-attachments/assets/49056fdc-0436-4fc3-b843-b25da9fe96f3" />
+<img width="1231" height="610" alt="image" src="https://github.com/user-attachments/assets/e77dd43e-b4d3-4655-8fc8-9abb94c5f6d4" />
+
 
 ### Future Developments
 - Add a GUI (e.g. use Pygame to display the game)
+- Add a replay option after each game
 
 ### What I Learned
-Throughout this project, I learned/brushed up on how to:
+Throughout this project, I learned and practiced how to:
 1. Structure a Python program using functions
-2. Validate user input using exception handling (try/except clauses)
+2. Validate user input (using exception handling) and numerical ranges
 3. Use loops to control game flow
 4. Generate random numbers
-5. Build a complete command-line application
+5. Create multiple game modes with different rules
+6. Build a complete command-line application
 
 ### Author
-- Name: 
-- GitHub:
+Github: https://github.com/AbuWaqid-Mir
