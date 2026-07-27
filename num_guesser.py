@@ -1,5 +1,3 @@
-# LAST STEP - Organise the timing
-
 import random
 import time
 
