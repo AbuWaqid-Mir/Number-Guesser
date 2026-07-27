@@ -1,9 +1,11 @@
 # Number Guesser (GAME)
 
 ### Overview
-#### A command-line Number Guesser game programmed in Python
-#### The program randomly generates a number within a selected range, which the player must guess before they reach the maximum number of guesses allowed.
-#### After each guess. the program provides hints indicating whether the guess was too high or low, and keeps track of the total number of guesses.
+A command-line Number Guesser game programmed in Python
+
+The program randomly generates a number within a selected range, which the player must guess before they reach the maximum number of guesses allowed.
+
+After each guess, the program provides hints indicating whether the guess was too high or low, and keeps track of the total number of guesses.
 
 ### Features
 - Random Number Generation
@@ -23,7 +25,6 @@
 - Random Number Generation 
 - Importing Libaries/Modules
 - Program Timing ("time.sleep()")
-- ASCII Art
 - Code Comments
 
 ### Technologies Used
