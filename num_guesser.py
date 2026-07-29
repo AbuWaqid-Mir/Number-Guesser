@@ -5,7 +5,10 @@ import time
 def intro():
     time.sleep(1) # delay the program by 1 second
     print("""
-##### NUMBER GUESSER ###################################################################################################
+#######################################################    
+                NUMBER GUESSER
+#######################################################    
+
     """)
     time.sleep(1)
     print("Welcome to the Number Guesser")
@@ -22,7 +25,9 @@ def intro():
 def difficulty_selection():
     time.sleep(1)
     print("""
-##### DIFFICULTY LEVEL SELECTION #######################################################################################
+#############################################    
+        DIFFICULTY LEVEL SELECTION
+#############################################
         """)
     time.sleep(1)
     print("You have 3 difficulty levels to choose from:")
@@ -61,7 +66,9 @@ def difficulty_selection():
 def easy_difficulty():
     time.sleep(1)
     print("""
-##### Level - EASY #####################################################################################################
+#############################################    
+                Level - EASY
+#############################################
         """)
     time.sleep(1)
     print("You will have 5 chances to guess my number")
@@ -113,7 +120,9 @@ def easy_difficulty():
 def medium_difficulty():
     time.sleep(1)
     print("""
-##### Level - MEDIUM #####################################################################################################
+#############################################    
+            Level - MEDIUM
+#############################################
         """)
     time.sleep(1)
     print("You will have 8 chances to guess my number")
@@ -165,7 +174,9 @@ def medium_difficulty():
 def hard_difficulty():
     time.sleep(1)
     print("""
-##### Level - HARD #####################################################################################################
+#############################################    
+                Level - HARD
+#############################################
         """)
     time.sleep(1)
     print("You will have 12 chances to guess my number")
