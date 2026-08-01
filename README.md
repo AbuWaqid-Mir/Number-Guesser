@@ -30,6 +30,7 @@ After each guess, the program provides hints indicating whether the guess was to
 - Code Comments
 
 ### Technologies Used
+- PyCharm
 - Python
 - random module
 - time module
