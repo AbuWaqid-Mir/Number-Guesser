@@ -39,7 +39,7 @@ After each guess, the program provides hints indicating whether the guess was to
 2. Run the Python file
 3. Follow the on-screen instructions
 
-### Example Gameplay
+### Screenshots
 <img width="1225" height="691" alt="image" src="https://github.com/user-attachments/assets/49056fdc-0436-4fc3-b843-b25da9fe96f3" />
 <img width="1231" height="610" alt="image" src="https://github.com/user-attachments/assets/e77dd43e-b4d3-4655-8fc8-9abb94c5f6d4" />
 
